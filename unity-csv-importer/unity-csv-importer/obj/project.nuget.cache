@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "stO3MtoyvydSlN6gixxaOb5elMQlgZgwKvcHKnRrpnPwNqtkz1Xmcklg5E0TzBBacVTm6QwaKdEqyhE8eorXSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\OneDrive\\Documents\\GitHub\\unity-csv-importer\\unity-csv-importer\\unity-csv-importer\\unity-csv-importer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\8.0.3\\microsoft.aspnetcore.components.webassembly.server.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

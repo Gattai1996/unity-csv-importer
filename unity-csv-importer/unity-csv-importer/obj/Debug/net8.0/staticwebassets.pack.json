@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bruno\\OneDrive\\Documents\\GitHub\\unity-csv-importer\\unity-csv-importer\\unity-csv-importer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\unity-csv-importer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\unity-csv-importer.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\bruno\\OneDrive\\Documents\\GitHub\\unity-csv-importer\\unity-csv-importer\\unity-csv-importer\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\bruno\\OneDrive\\Documents\\GitHub\\unity-csv-importer\\unity-csv-importer\\unity-csv-importer\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bruno\\OneDrive\\Documents\\GitHub\\unity-csv-importer\\unity-csv-importer\\unity-csv-importer\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bruno\\OneDrive\\Documents\\GitHub\\unity-csv-importer\\unity-csv-importer\\unity-csv-importer\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.unity-csv-importer.props",
+      "PackagePath": "build\\unity-csv-importer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.unity-csv-importer.props",
+      "PackagePath": "buildMultiTargeting\\unity-csv-importer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.unity-csv-importer.props",
+      "PackagePath": "buildTransitive\\unity-csv-importer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.unity-csv-importer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

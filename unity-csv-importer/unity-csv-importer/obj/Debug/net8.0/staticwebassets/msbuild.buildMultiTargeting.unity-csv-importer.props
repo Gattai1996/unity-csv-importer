@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\unity-csv-importer.props" />
+</Project>
